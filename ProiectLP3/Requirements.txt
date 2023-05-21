@@ -1,26 +1,27 @@
-Cerințe generale
-1. La final se va preda codul sursa împreună cu fișierul de requirements.txt.
-NU se va transmite și folderul venv.
-2. Folosiți comentarii în interiorul programului pentru descrierea funcționalității.
-3. Citați sursele folosite. Dacă ați reutilizat cod păstrați în comentariu de documentare de la
-începutul fișierului un link către codul original.
-4. NU este necesară pentru prezentarea proiectelor o prezentare powerpoint. Codul sursă și un
-scurt demo sunt suficiente.
-5. Totuși ar fi bine să vă pregătiți un discurs . Prezentarea poate fi realizată de un singur membru al
-echipei, dar ar fi indicat să fie toți membri implicați.
-6. Toți membri echipei trebuie să fie capabili să răspundă la întrebări.
-----------------------------------------------------------------------------------------------------------------
-Echipa: 12-E6
-Studenti: GIUBELAN F. ISABELA, GOLAŞIE E. LAURA MIRUNA
-Tema proiect: D8-T1 | Testarea unei aplicații web.
-Implementarea unui script ce va procesa toate fotografiile dintr-un folder ce au contrast slab. Puteți folosi
-metoda de egalizare a histogramei.
-Dezvoltați un script ce face o autentificare pe o platforma de email și trimite un email către aceeași
-adresa de email. Verificați dacă email-ul a fost primit.
-Cerinte minimale:
-1. Scrieți un script pentru autentificarea pe platforma.
-2. După autentificare scrieți un script pentru a verifica trimiterea unui mail.
-3. Afișarea timpului total de execuție.
-Resurse:
-https://selenium-python.readthedocs.io/
-https://dev.to/tonetheman/using-selenium-to-login-to-a-website-10o4
+from unittest import TestCase
+
+
+class Test(TestCase):
+    def test_trimite_email(self):
+        self.fail()
+
+
+PySocks	1.7.1	1.7.1
+async-generator	1.10
+attrs	23.1.0	23.1.0
+certifi	2023.5.7	2023.5.7
+cffi	1.15.1	1.15.1
+exceptiongroup	1.1.1	1.1.1
+h11	0.14.0	0.14.0
+idna	3.4	3.4
+outcome	1.2.0	1.2.0
+pip	22.3.1	23.1.2
+pycparser	2.21	2.21
+selenium	4.9.1	4.9.1
+setuptools	65.5.0	67.8.0
+sniffio	1.3.0	1.3.0
+sortedcontainers	2.4.0	2.4.0
+trio	0.22.0	0.22.0
+trio-websocket	0.10.2	0.10.2
+urllib3	2.0.2	2.0.2
+wsproto	1.2.0	1.2.0
