@@ -1,0 +1,5 @@
+1. https://youtube.com/playlist?list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ
+2. https://www.youtube.com/watch?v=zxFXnLEmnb4
+3. https://www.youtube.com/watch?v=OLrC4J2-pvk&t=450s
+4. https://selenium-python.readthedocs.io/
+5. https://dev.to/tonetheman/using-selenium-to-login-to-a-website-10o4
